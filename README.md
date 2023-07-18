@@ -1,3 +1,7 @@
+### This is a debug branch. Flatgithub.com doesn't like non-main branches so here we are.
+
+Don't accept PRs from this branch. Don't accept PRs if you see this in the diff.
+
 # socorro stats
 
 Crash report stats over time.
